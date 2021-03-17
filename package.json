@@ -1,0 +1,20 @@
+{
+  "name": "keksmusic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "chalk": "^4.1.0",
+    "discord-player": "^3.4.0",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
